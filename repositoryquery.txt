@@ -1,0 +1,15 @@
+{
+  repository(name: "graphql") {
+    id
+  }
+}
+
+->> error field repository is missing required arguments, owner
+
+{
+  repository(name: "graphql", owner: "facebook") {
+    id
+    description
+    homepageUrl
+  }
+}

@@ -1,0 +1,9 @@
+{
+  repositoryOwner(login: "eveporcello") {
+    id
+    resourcePath
+    url
+  }
+}
+
+must use double quotes
