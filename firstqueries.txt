@@ -1,0 +1,9 @@
+{
+  #First Query!
+  #ctrl space to populate entirelist
+  viewer {
+    name
+    bio
+    id
+  }
+}
